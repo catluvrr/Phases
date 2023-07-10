@@ -1,7 +1,7 @@
 # Phases
 ![](img/Phases__AdobeExpress.gif)
-![](img/phases.jpg)
 
+<img src="img/phases.jpg" height="400" width="250" >
 
 
   👾 
