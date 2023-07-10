@@ -1,8 +1,7 @@
 # Phases
+![](img/Phases__AdobeExpress.gif)
+![](img/phases.jpg)
 
-https://github.com/catluvrr/Phases/assets/127452070/8f650317-8c00-4024-b29d-23209ac4ad75
-
-![_phases_](https://github.com/catluvrr/Phases/assets/127452070/97f71ce9-b16e-4f52-b27d-a32bf5b00bc9)
 
 
   👾 
