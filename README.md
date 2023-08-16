@@ -1,4 +1,6 @@
 # Phases
+
+<img src="sun/gif.gif" height="400" width="277" >
 ![](img/Phases__AdobeExpress.gif)
 
 ![](img/sunnyrepsonsive.jpg)
